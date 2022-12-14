@@ -1,2 +1,2 @@
-# my-first-repo test
+# my-first-repo
 practice account for learning Git -- test
